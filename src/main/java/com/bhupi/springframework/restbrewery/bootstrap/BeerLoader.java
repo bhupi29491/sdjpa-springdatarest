@@ -1,8 +1,8 @@
-package guru.springframework.sfgrestbrewery.bootstrap;
+package com.bhupi.springframework.restbrewery.bootstrap;
 
-import guru.springframework.sfgrestbrewery.domain.Beer;
-import guru.springframework.sfgrestbrewery.domain.BeerStyleEnum;
-import guru.springframework.sfgrestbrewery.repositories.BeerRepository;
+import com.bhupi.springframework.restbrewery.domain.Beer;
+import com.bhupi.springframework.restbrewery.domain.BeerStyleEnum;
+import com.bhupi.springframework.restbrewery.repositories.BeerRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;

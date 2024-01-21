@@ -1,4 +1,4 @@
-package guru.springframework.sfgrestbrewery.domain;
+package com.bhupi.springframework.restbrewery.domain;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

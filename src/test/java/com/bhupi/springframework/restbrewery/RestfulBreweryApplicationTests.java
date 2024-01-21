@@ -1,11 +1,11 @@
-package guru.springframework.sfgrestbrewery;
+package com.bhupi.springframework.restbrewery;
 
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class SfgRestfulBreweryApplicationTests {
+public class RestfulBreweryApplicationTests {
 
 	@Test
 	public void contextLoads() {

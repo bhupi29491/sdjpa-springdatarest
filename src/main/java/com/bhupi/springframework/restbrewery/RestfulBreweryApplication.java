@@ -1,13 +1,13 @@
-package guru.springframework.sfgrestbrewery;
+package com.bhupi.springframework.restbrewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SfgRestfulBreweryApplication {
+public class RestfulBreweryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SfgRestfulBreweryApplication.class, args);
+		SpringApplication.run(RestfulBreweryApplication.class, args);
 	}
 
 }
